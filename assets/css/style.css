@@ -1,0 +1,30 @@
+.block {
+    display: block;
+}
+.caja{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    display: inline-block;
+}
+#red{
+    background-color: red;
+    visibility: hidden;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+    
+}
+#yellow{
+    background-color: yellow;
+}
+#brown{
+    background-color: brown;
+}
+#orange{
+    background-color: orange;
+}
